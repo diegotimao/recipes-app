@@ -1,16 +1,42 @@
-# 🚧 README em construção 🚧
+# Recipes App
+  
+## Objetivo: 
+O objetivo deste projeto foi criar uma aplicação completa, um app de receitas, com ele o usuário pode visualizar receitas de comidas e bebidas, favoritar, inciar uma receita, perfil do usuário entre outras ações.
 
-<!-- Olá, Tryber!
+## Contém:
+Neste projeto pude práticar e aprimorar meus conhecimentos em:
+- **HTML5**;
+- **CSS3**;
+- **ReactJs**;
+- **Context Api**;
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+# Habilidades: 
 
-É essencial que você preencha esse documento por conta própria, ok?
+Neste projeto, foi verificado a capacidade de:
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+* Utilizar Redux para gerenciar estado.
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+* Utilizar a biblioteca React-Redux.
 
--->
+* Utilizar a Context API do React para gerenciar estado.
+
+* Utilizar o React Hook useState.
+
+* Utilizar o React Hook useContext.
+
+* Utilizar o React Hook useEffect.
+
+* Criar Hooks customizados.
+
+* Trabalhar em equipe.
+
+* Ultilizar a framework Scrum Master para gerenciamento de projetos.
+
+## Bibliotecas que contém neste projeto:
+* **[ReactJS](https://pt-br.reactjs.org/)** - Biblioteca Front-end;
+* **[Redux](https://redux.js.org/)**
+* **[Scrum_Master](https://g.co/kgs/NoFQZW)
+
+## Layout:
+
+![](./src/images/ilustrator.png)
