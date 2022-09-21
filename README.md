@@ -12,7 +12,7 @@ O recipes app é uma aplicação front-end desenvolvida com base no reactjs e co
 Neste projeto pude práticar e aprimorar meus conhecimentos em:
 
 - **Javascript** 
-- **Redux Tukit** para gerenciamento global da aplicação.
+- **Redux** para gerenciamento global da aplicação.
 - **React Hook** (useState, useEffect).
 - **React Hooks Customizados**.
 - **React testing library** para garantir a qualidade do código e testar possíveis interações do usuário.
@@ -33,7 +33,7 @@ O [TheMealDB](https://www.themealdb.com/) é um banco de dados aberto, mantido p
 ## Bibliotecas que contém neste projeto:
 * **[ReactJS](https://pt-br.reactjs.org/)**
 * **[Redux](https://redux.js.org/)**
-* **[Scrum Master](https://g.co/kgs/NoFQZW)**
+* **[React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)**
 
 ## Layout:
 
