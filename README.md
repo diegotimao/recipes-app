@@ -33,10 +33,10 @@ Neste projeto, foi verificado a capacidade de:
 * Ultilizar a framework Scrum Master para gerenciamento de projetos.
 
 ## Bibliotecas que contém neste projeto:
-* **[ReactJS](https://pt-br.reactjs.org/)** - Biblioteca Front-end;
+* **[ReactJS](https://pt-br.reactjs.org/)**
 * **[Redux](https://redux.js.org/)**
-* **[Scrum_Master](https://g.co/kgs/NoFQZW)
+* **[Scrum_Master](https://g.co/kgs/NoFQZW)**
 
 ## Layout:
 
-![](./src/images/ilustrator.png)
+![](./src/images/recipes.svg)
