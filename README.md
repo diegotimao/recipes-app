@@ -35,7 +35,7 @@ Neste projeto, foi verificado a capacidade de:
 ## Bibliotecas que contém neste projeto:
 * **[ReactJS](https://pt-br.reactjs.org/)**
 * **[Redux](https://redux.js.org/)**
-* **[Scrum_Master](https://g.co/kgs/NoFQZW)**
+* **[Scrum Master](https://g.co/kgs/NoFQZW)**
 
 ## Layout:
 
