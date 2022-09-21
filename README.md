@@ -3,6 +3,10 @@
 ## Objetivo: 
 O objetivo deste projeto foi criar uma aplicação completa, um app de receitas, com ele o usuário pode visualizar receitas de comidas e bebidas, favoritar, inciar uma receita, perfil do usuário entre outras ações.
 
+## Preview
+
+* **[Recipes App](https://recipes-app-red-eight.vercel.app/foods)**
+
 ## Contém:
 Neste projeto pude práticar e aprimorar meus conhecimentos em:
 - **HTML5**;
