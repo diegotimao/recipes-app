@@ -7,19 +7,11 @@ O recipes app é uma aplicação front-end desenvolvida com base no reactjs e co
 > **Preview:**
 > 👉 [Recipes App](https://recipes-app-red-eight.vercel.app/foods)
 
-## Contém:
-Neste projeto pude práticar e aprimorar meus conhecimentos em:
-- **HTML5**;
-- **CSS3**;
-- **ReactJs**;
-- **Javascript**;
-- **Context Api**;
-- **Redux Tukit**
-
 ## Habilidades: 
 
-Neste projeto, foi verificado a capacidade de:
+Neste projeto pude práticar e aprimorar meus conhecimentos em:
 
+- **Javascript** 
 - **Redux Tukit** para gerenciamento global da aplicação.
 - **React Hook** (useState, useEffect).
 - **React Hooks Customizados**.
